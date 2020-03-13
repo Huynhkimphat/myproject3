@@ -12,7 +12,7 @@ public:
 };
 int main() {
     ofstream myfile;
-    myfile.open("1.txt");
+    myfile.open("C:\\Users\\ASUS\\Documents\\GitHub\\myproject3\\HW\\1.txt");
     int w;
     cin >> w;
     while (w != 0)
